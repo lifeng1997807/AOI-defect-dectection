@@ -1,4 +1,4 @@
-# AOI-defect-dectection
+# AOI-defect detection
 AOI  defect dectection by vgg16
 
 摘要:
