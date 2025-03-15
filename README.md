@@ -8,7 +8,9 @@ data resource
 https://aidea-web.tw/playground
 
 performance
-acc=0.9852034,rank:233/835
+acc=0.9893598,rank:171/835
 
 reference
 https://github.com/jellyfish1456/AOI-defect-detection
+
+#更:我還做了凍結預訓練權重/利用svm取代softmax 輸出並導入難樣本挖掘<但效果和上面的差不多
